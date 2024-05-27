@@ -6,6 +6,9 @@
 
   - (As you can see, my English sucks)
 
+![This is me](./img/try.jpg)
+![This is me](https://github.com/Try2079/Try2079/blob/main/img/try.jpg)
+
 <!--
 **Try2079/Try2079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
