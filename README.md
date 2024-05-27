@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-- This is a college student github profile.
+- This is a college student's github profile.
 - 🔭 Currently I'm looking for some interesting projects on github, and want to do some contribute to the community.
 - 😄 Let me know if you got some awesome project that fit for the newbie.
 
