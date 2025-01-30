@@ -1,8 +1,8 @@
 ## Hello there 👋
 
 - This is a college student's github profile.
-- 🔭 Currently I'm looking for some interesting projects on github, and want to do some contribute to the community.
-- 😄 Let me know if you got some awesome project that fit for the newbie.
+- 🔭 Currently I'm looking for some interesting projects on github, and wanna contribute to the community.
+- 😄 Let me know if you have any awesome project that fits newbie.
 
   - (As you can see, my English sucks)
 
